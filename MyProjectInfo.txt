@@ -4,5 +4,10 @@ Softwares Required
 1. Eclipse Neon 3.0
 2. Apache Tomcat 8.5/9.0
 3. Java 1.8
+4. MySQL 5.0/8.0
+
+Today we have created the angular project
+1. NojeJS
+2. Visual Studio Code
 
 Done.
