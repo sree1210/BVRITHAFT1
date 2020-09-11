@@ -10,4 +10,10 @@ Today we have created the angular project
 1. NojeJS
 2. Visual Studio Code
 
+
+Under RestAPI
+1. Created DTO's
+2. Created DAO's
+3. Implemented DB
+
 Done.
